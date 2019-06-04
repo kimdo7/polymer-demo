@@ -1,0 +1,17 @@
+{
+  "name": "demos",
+  "homepage": "https://github.com/kimdo7/polymer-demo",
+  "authors": [
+    "Kim Do <kim.h.do.seven@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
